@@ -1,7 +1,7 @@
 # MLfromscratch
 Machine Learning algorithm implementations from scratch.
 
-You can find Tutorials with the math and code explanations on my channel:  
+You can find Tutorials with the math and code explanations on this channel:  
 https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E
 
 - KNN
